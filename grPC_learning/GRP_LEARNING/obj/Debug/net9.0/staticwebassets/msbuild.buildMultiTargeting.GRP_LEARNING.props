@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GRP_LEARNING.props" />
+</Project>
