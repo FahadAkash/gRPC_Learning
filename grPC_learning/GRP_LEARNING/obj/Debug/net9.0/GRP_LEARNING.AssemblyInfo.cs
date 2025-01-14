@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GRP_LEARNING")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792a14750048b71c76289be78de5d57e5dfdb19e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78ee5b804ced3cd0a88ddc1d2a331c0b84a85a12")]
 [assembly: System.Reflection.AssemblyProductAttribute("GRP_LEARNING")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GRP_LEARNING")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
